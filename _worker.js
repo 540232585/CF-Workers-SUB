@@ -15,8 +15,9 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWKoOWFpeaIkeeahOmikemBk3QubWUvQ01MaXVz
 
 //机场信息，可多个，也可为0
 const urls = [
-	'https://sub.xf.free.hr/auto',
-	'https://hy2sub.pages.dev',
+	'https://540232585.pages.dev/3015a5b2-2187-4a9a-a45b-a880755df548',
+	'https://sub.xf.free.hr/auto?host=dingyue.kdz35.dynv6.net&uuid=3015a5b2-2187-4a9a-a45b-a880755df548',
+];
 	// 添加更多订阅,支持base64
 ];
 
